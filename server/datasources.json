@@ -3,8 +3,8 @@
     "name": "db",
     "connector": "memory"
   },
-  "subsider": {
-    "name": "subsider",
-    "connector": "mongodb"
+  "mongo": {
+    "name": "mongo",
+    "connector": "mongodb",
   }
 }

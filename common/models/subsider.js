@@ -1,4 +1,4 @@
-'use strict'
+//'use strict'
 module.exports = function(Subsider) {
     Subsider.sharedClass.find('create', true).shared = true;
     Subsider.sharedClass.find('update', true).shared = false;
