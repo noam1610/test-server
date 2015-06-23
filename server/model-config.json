@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Subsider": {
+    "dataSource": "db",
+    "public": true
   }
 }
