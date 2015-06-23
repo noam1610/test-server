@@ -5,6 +5,6 @@
   },
   "mongo": {
     "name": "mongo",
-    "connector": "mongodb",
+    "connector": "mongodb"
   }
 }
